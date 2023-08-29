@@ -24,7 +24,7 @@ Então.. Após aparecer a pergunta no quadro, haverão 5 alíneas para escolher,
 
 
 
-<figure><img src=".gitbook/assets/Screenshot_12.png" alt=""><figcaption><p>Imagem do quadro da /warp quiz, onde aparecem as perguntas.</p></figcaption></figure>
+<figure><img src=".gitbook/assets/Screenshot_12.png" alt=""><figcaption><p>O quadro da /warp quiz, onde aparecem as perguntas.</p></figcaption></figure>
 
 
 

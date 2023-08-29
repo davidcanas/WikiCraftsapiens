@@ -12,11 +12,9 @@ Nome do Servidor: Qualquer nome.&#x20;
 
 <figure><img src="https://media.discordapp.net/attachments/939953001433538631/989626087879368744/WhatsApp_Image_2022-06-23_at_12.35.43.jpeg?width=692&#x26;height=389" alt=""><figcaption></figcaption></figure>
 
-Após isso , você já deverá logar no servidor, saiba agora [como participar das aulas](../como-participar-das-aulas.md).
-
-
+Após isso, você já deverá logar no servidor, saiba agora [como participar das aulas](../como-participar-das-aulas.md).
 
 {% hint style="warning" %}
-O Minecraft PE atualiza várias vezes, e com o tempo vai chegar uma altura que a versão não vai ser mais suportada, quando isso acontecer, precisará procurar um minecraft PE mais atualizado. _A versão BETA não funciona._
+O Minecraft PE atualiza várias vezes, e com o tempo vai chegar uma altura que a versão não vai ser mais suportada, quando isso acontecer, precisará procurar um minecraft PE mais atualizado. **A versão BETA não funciona.**
 {% endhint %}
 
