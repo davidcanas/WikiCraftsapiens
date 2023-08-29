@@ -1,7 +1,5 @@
 ---
-description: >-
-  Uma breve explicação sobre o que é a Craftsapiens e um pouco sobre o seu
-  funcionamento.
+description: Uma breve explicação sobre o que é a Craftsapiens.
 ---
 
 # 🤔 O que é a Craftsapiens?

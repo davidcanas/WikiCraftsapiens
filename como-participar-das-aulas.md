@@ -1,3 +1,9 @@
+---
+description: >-
+  Uma explicação sobre como participar, e também um pouco sobre o seu
+  funcionamento.
+---
+
 # 📔 Como participar das aulas?
 
 As aulas gratuitas ocorrem todos os dias úteis ás 18h:30 (horário de Brasilia), o servidor também possuí aulas Premium às 19h:30.

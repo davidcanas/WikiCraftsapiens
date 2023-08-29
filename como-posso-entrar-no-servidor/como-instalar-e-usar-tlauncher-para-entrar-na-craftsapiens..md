@@ -47,6 +47,10 @@ Em primeiro lugar , baixe o Tlauncher [aqui](https://tlauncher.org/en/)
 
 <figure><img src="../.gitbook/assets/Screenshot_24.png" alt=""><figcaption><p>Após clicar no botão instalação , aguarde um momento para instalar, e depois clique nesse botão de novo.</p></figcaption></figure>
 
+{% hint style="success" %}
+Opte por escolher uma versão `Optifine`, a melhor versão a utilizar é `Optifine 1.20.1`
+{% endhint %}
+
 E pronto, o seu minecraft já deverá abrir normalmente!
 
 [Veja agora como entrar no servidor!](./)

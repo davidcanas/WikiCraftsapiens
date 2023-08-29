@@ -7,7 +7,7 @@ description: >-
 # 🙂 Como instalar e usar SKLauncher para entrar na CraftSapiens.
 
 {% hint style="danger" %}
-A instalação e configuração do SKLauncher pode ser um pouco díficil, o TLauncher é muito mais simples e fácil de instalar.
+A instalação e configuração do SKLauncher pode ser um pouco díficil, o TLauncher é mais simples e fácil de instalar.
 {% endhint %}
 
 [Baixe o Java ](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=248737\_8c876547113c4e4aab3c868e9e0ec572)[8 (obrigatório)](https://javadl.oracle.com/webapps/download/AutoDL?BundleId=248737\_8c876547113c4e4aab3c868e9e0ec572)
