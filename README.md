@@ -9,3 +9,7 @@ A Craftsapiens é um metaverso educacional dentro do famoso jogo[ Minecraft](htt
 Em dias úteis _(segunda a sexta)_, ocorrem 2 aulas no servidor, uma gratuita e uma Premium. A aula gratuita decorre às 18h:30min , e a premium decorre ás 19h:30min _(horário de Brasília)._
 
 [Entre em nosso discord](https://discord.gg/RRz9Z9HGnR)
+
+{% hint style="info" %}
+Eventualmente ocorrem aulas aos Sábados, fique de olho no [Cronograma](https://discord.com/channels/892472046729179136/939937615325560912).
+{% endhint %}

@@ -8,15 +8,23 @@ description: >-
 
 As aulas gratuitas ocorrem todos os dias úteis ás 18h:30 (horário de Brasilia), o servidor também possuí aulas Premium às 19h:30.
 
-Nesse horário, você deve entrar no servidor, usar o comando /server Craftsapiens no chat _(para abrir o chat pressione T)_ e após isso você estará na sala de aula, se por algum motivo não estiver na sala de aula, use o comando /warp aula.
+{% hint style="info" %}
+Premium é uma das assinaturas disponíveis no servidor, que dá diversas vantagens, sendo uma delas, as aulas exclusivas. [Saiba mais](https://craftsapiens.lojasquare.net/itens)
+{% endhint %}
 
-Após isso, existirão várias cadeiras, e você poderá se sentar em uma cadeira livre para ver a aula.
+Nesse horário, você deve entrar no servidor, usar o comando `/server Craftsapiens` no chat _(para abrir o chat pressione T)_ e após isso você estará na sala de aula, se por algum motivo não estiver na sala de aula, use o comando `/warp aula`.
 
+Após isso, existirão várias cadeiras, e você poderá se sentar em uma cadeira livre clicando na mesma.
 
+{% hint style="warning" %}
+Evite ficar de pé ou fora da cadeira durante a aula, já que isso pode afetar a visibilidade de outros jogadores.
+{% endhint %}
+
+E pronto, agora você já consegue ver os slides da aula.
 
 <figure><img src=".gitbook/assets/Screenshot_13.png" alt=""><figcaption><p>A sala de aula</p></figcaption></figure>
 
-Para escutar a aula, [entre no nosso discord](https://discord.gg/RRz9Z9HGnR), e entre na call [Aula Gratuita Podcast](https://discord.com/channels/892472046729179136/939947056829702204), com isso, você já conseguirá ouvir a voz do professor. (apenas na hora da aula)
+Para escutar a aula, [entre no nosso discord](https://discord.gg/RRz9Z9HGnR), e entre na call [Aula Gratuita Podcast](https://discord.com/channels/892472046729179136/939947056829702204), com isso, você já conseguirá ouvir a voz do professor.
 
 Em um momento da aula, no final, existe o evento quiz,o professor irá chamar/teleportar você para a /warp quiz, e após estar lá, aparecerão uma série de perguntas no quadro, o objetivo é testar o seu conhecimento, e como recompensa você recebe Sapiens por cada pergunta que acertar.
 

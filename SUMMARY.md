@@ -8,3 +8,4 @@
 * [📔 Como participar das aulas?](classes.md)
 * [🤓 Como funciona o servidor Geopolítico?](survival.md)
 * [🙃 É tudo... Por agora](end.md)
+* [Discord](https://discord.gg/RRz9Z9HGnR)

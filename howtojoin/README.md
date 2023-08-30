@@ -6,6 +6,10 @@ description: O IP do servidor é jogar.craftsapiens.com.br
 
 Atualmente é possível entrar na Craftsapiens em qualquer plataforma que suporte Minecraft (PC, Celular, PS4, XBOX). O tutorial abaixo é para quem vai usar o Minecraft pelo PC, para entrar com PS4 ou XBOX [veja esse video,](https://www.youtube.com/watch?v=WEorhd02P4s) caso você só possa jogar pelo Celular, [clique aqui.](setup-bedrock.md)
 
+{% hint style="info" %}
+Caso você queira assistir às aulas, mas não tem condições de rodar o minecraft por algum motivo, as nossas aulas são transmitidas para o [Youtube](https://www.youtube.com/channel/UCdea6doNy\_AypHr4S2tPUTw), em que você pode acompanhar todas as aulas
+{% endhint %}
+
 Em primeiro lugar, você vai precisar de possuir o Minecraft instalado _(não precisa de possuir uma conta original)_
 
 Caso você não tenha condições de comprar minecraft, saiba como instalar o minecraft:
